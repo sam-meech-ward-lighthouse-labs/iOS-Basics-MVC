@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NewView.h
 //  Demo
 //
 //  Created by Sam Meech-Ward on 2016-11-07.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NewView : UIView
 
 @end
-
